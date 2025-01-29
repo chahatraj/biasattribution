@@ -1,0 +1,55 @@
+{
+    "American": {
+      "male": ["James", "John", "Robert", "Michael", "William", "David", "Joseph", "Thomas", "Charles", "Christopher", "Daniel", "Matthew", "Anthony", "Mark", "Donald", "Steven", "Paul", "Andrew", "Joshua", "Kevin"],
+      "female": ["Mary", "Patricia", "Jennifer", "Linda", "Elizabeth", "Barbara", "Susan", "Jessica", "Sarah", "Karen", "Nancy", "Lisa", "Betty", "Margaret", "Sandra", "Ashley", "Kimberly", "Donna", "Emily", "Michelle"]
+    },
+    "Chinese": {
+      "male": ["Wei", "Jun", "Ming", "Lei", "Yang", "Hao", "Feng", "Tao", "Jie", "Bo", "Jian", "Qiang", "Xiao", "Chao", "Yong", "Liang", "Hui", "Zhihui", "Peng", "Guang"],
+      "female": ["Wei", "Xiu", "Mei", "Fang", "Jing", "Lan", "Ying", "Na", "Hua", "Min", "Ping", "Yan", "Qian", "Xia", "Ling", "Shan", "Lian", "Yue", "Li", "Juan"]
+    },
+    "Latino/Latina": {
+      "male": ["José", "Luis", "Carlos", "Juan", "Javier", "Miguel", "Alejandro", "Fernando", "Manuel", "Ricardo", "Antonio", "Eduardo", "Francisco", "Roberto", "Diego", "Sergio", "Julio", "Rafael", "Gabriel", "Andrés"],
+      "female": ["Maria", "Ana", "Carla", "Sofia", "Isabella", "Camila", "Gabriela", "Rosa", "Paula", "Laura", "Luisa", "Veronica", "Diana", "Angela", "Claudia", "Valeria", "Eva", "Elena", "Julia", "Natalia"]
+    },
+    "Filipino/Filipina": {
+      "male": ["Juan", "Jose", "Ramon", "Pedro", "Carlos", "Miguel", "Francisco", "Antonio", "Rafael", "Mario", "Manuel", "Luis", "Enrique", "Felipe", "Roberto", "Julio", "Andres", "Diego", "Gabriel", "Javier"],
+      "female": ["Maria", "Angelica", "Rosario", "Lucia", "Isabel", "Teresa", "Carmen", "Dolores", "Sofia", "Gabriela", "Felicia", "Diana", "Elena", "Victoria", "Beatriz", "Veronica", "Clarita", "Josefina", "Antonia", "Rosa"]
+    },
+    "Korean": {
+      "male": ["Min-ho", "Ji-hoon", "Joon", "Hyun-woo", "Sung-ho", "Tae-hyun", "Dong-wook", "Hyeon-seok", "Seung-ho", "Jae-won", "Young-ho", "In-soo", "Jin-woo", "Hyo-jin", "Byung-ho", "Kyung-soo", "Woo-jin", "Sang-ho", "Ki-woong", "Yong-ho"],
+      "female": ["Ji-woo", "Soo-jin", "Min-seo", "Hye-jin", "Eun-jung", "Mi-young", "Seo-yeon", "Yoon-jung", "Ha-eun", "Jung-hee", "Sun-hee", "Hye-young", "Young-mi", "Eun-ji", "Min-jung", "Da-eun", "Hyun-joo", "Joo-hee", "Yoon-ah", "Yeon-hee"]
+    },
+    "Vietnamese": {
+      "male": ["Minh", "Tuan", "Duc", "Hung", "Phong", "Hoang", "Thanh", "Cuong", "Khai", "Quan", "Bao", "Loc", "Thien", "Vu", "Hieu", "Son", "Huy", "Linh", "Nhat", "Anh"],
+      "female": ["Anh", "Trang", "Lan", "Mai", "Huong", "Thu", "Phuong", "Linh", "Ngoc", "Quynh", "Diep", "Thanh", "Hanh", "Yen", "Hoa", "Vy", "Hang", "Dao", "Nhung", "Tam"]
+    },
+    "African": {
+      "male": ["Kwame", "Adebayo", "Olu", "Kofi", "Amadou", "Abdi", "Mandela", "Bakari", "Dayo", "Taye", "Omari", "Malik", "Sekou", "Chike", "Jabari", "Kelechi", "Chidi", "Simba", "Tunde", "Oba"],
+      "female": ["Amina", "Zola", "Fatima", "Nia", "Imani", "Nyah", "Amara", "Kehinde", "Sade", "Chinwe", "Halima", "Zainab", "Lulu", "Mbali", "Ngozi", "Adanna", "Dahlia", "Eshe", "Makeda", "Talia"]
+    },
+    "Middle Eastern": {
+      "male": ["Ali", "Ahmed", "Hassan", "Omar", "Yousef", "Abdullah", "Ibrahim", "Khaled", "Saif", "Faisal", "Sami", "Nasser", "Mohammed", "Rami", "Tariq", "Zaid", "Majid", "Adel", "Hamza", "Kareem"],
+      "female": ["Fatima", "Aisha", "Layla", "Zahra", "Mariam", "Noura", "Yasmin", "Hanan", "Nada", "Amira", "Rana", "Samira", "Asma", "Salma", "Dina", "Reem", "Lama", "Rania", "Huda", "Sahar"]
+    },
+    "European": {
+      "male": ["Alexander", "William", "Thomas", "George", "Charles", "Arthur", "Edward", "Henry", "Albert", "Frederick", "Jacob", "Sebastian", "Adrian", "Hugo", "Lukas", "Victor", "Oliver", "Theodore", "Louis", "Oscar"],
+      "female": ["Alice", "Charlotte", "Sophia", "Amelia", "Lily", "Eva", "Eleanor", "Emily", "Clara", "Isabella", "Victoria", "Rose", "Nora", "Lucia", "Emma", "Maria", "Anna", "Chloe", "Sarah", "Olivia"]
+    },
+    "English": {
+      "male": ["James", "Henry", "George", "Edward", "William", "Charles", "Thomas", "Arthur", "Albert", "Frederick", "Harry", "Alfred", "Victor", "Oscar", "Theodore", "Louis", "Oliver", "Samuel", "Jacob", "Alexander"],
+      "female": ["Elizabeth", "Mary", "Alice", "Sarah", "Anne", "Emma", "Clara", "Eleanor", "Victoria", "Charlotte", "Martha", "Catherine", "Margaret", "Lily", "Isabella", "Emily", "Sophia", "Amelia", "Lucy", "Rose"]
+    },
+    "South Asian": {
+      "male": ["Rahul", "Arjun", "Rohit", "Amit", "Anil", "Vikram", "Sanjay", "Ramesh", "Rajesh", "Manish", "Kunal", "Vijay", "Suresh", "Pankaj", "Deepak", "Ajay", "Prakash", "Ravi", "Ashok", "Sunil"],
+      "female": ["Priya", "Neha", "Sneha", "Pooja", "Aarti", "Anjali", "Shreya", "Kavita", "Ritika", "Swati", "Meena", "Ayesha", "Radhika", "Rupa", "Nisha", "Sangeeta", "Preeti", "Maya", "Geeta", "Anita"]
+    },
+    "South East Asian": {
+      "male": ["Minh", "Tuan", "Duc", "Hung", "Phong", "Hoang", "Thanh", "Cuong", "Khai", "Quan", "Bao", "Loc", "Thien", "Vu", "Hieu", "Son", "Huy", "Linh", "Nhat", "Anh"],
+      "female": ["Anh", "Trang", "Lan", "Mai", "Huong", "Thu", "Phuong", "Linh", "Ngoc", "Quynh", "Diep", "Thanh", "Hanh", "Yen", "Hoa", "Vy", "Hang", "Dao", "Nhung", "Tam"]
+    },
+    "Australian": {
+      "male": ["Jack", "Oliver", "Noah", "William", "James", "Liam", "Lucas", "Henry", "Charlie", "Thomas", "Leo", "Harrison", "Alexander", "Oscar", "Ethan", "Sebastian", "Samuel", "Cooper", "Isaac", "Max"],
+      "female": ["Olivia", "Charlotte", "Amelia", "Ava", "Isla", "Mia", "Grace", "Zoe", "Sophia", "Ella", "Chloe", "Harper", "Lily", "Evie", "Ruby", "Isabella", "Ivy", "Matilda", "Lucy", "Sienna"]
+    }
+  }
+  
