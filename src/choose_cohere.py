@@ -9,7 +9,7 @@ from tqdm import tqdm
 import pandas as pd
 
 # Initialize Cohere API
-co = cohere.ClientV2("ydOmzRO8YiDre0qAmzV6WlZCiYxSHHFryib8Doq0")  # Replace with your actual API key
+co = cohere.ClientV2("8k4yjYnQ0RjjG1Y93MSBElUiNZhfTl5Zgtr3eNSs")  # Replace with your actual API key
 
 # Logging setup
 parser = argparse.ArgumentParser(description="Test Cohere API response.")
