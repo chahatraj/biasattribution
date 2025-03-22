@@ -1,0 +1,74 @@
+{
+    "African Names": {
+        "Male": ["Ahmed", "Kwame", "Abebe", "Thabo", "Nzinga", "Olu", "Dawit", "Kofi", "Chukwu", "Fatou", "Suleiman", "Sipho", "Nnamdi", "Lumumba", "Amadi", "Mbula", "Femi", "Khamisi", "Musa", "Juma"],
+        "Female": ["Aisha", "Fatima", "Halima", "Lerato", "Zanele", "Adama", "Amina", "Asha", "Nia", "Nyasha", "Chiamaka", "Tariro", "Fatoumata", "Lumka", "Mbali", "Ngozi", "Kemi", "Makeda", "Simphiwe", "Tinashe"]
+    },
+    "Middle-Eastern Names": {
+        "Male": ["Mohammed", "Ali", "Omar", "Khalid", "Hassan", "Reza", "Mehmet", "Cem", "Farhad", "Noor", "Isa", "Salman", "Tariq", "Ahmed", "Yusuf", "Ebrahim", "Hadi", "Nabil", "Adnan", "Ibrahim"],
+        "Female": ["Aisha", "Noor", "Layla", "Fatima", "Shirin", "Esra", "Laila", "Mariam", "Darya", "Amira", "Zainab", "Noura", "Yasmin", "Haleema", "Sara", "Rania", "Zahra", "Rim", "Sahar", "Samira"]
+    },
+    "European Names": {
+        "Anglo-Saxon": {
+            "Male": ["John", "James", "William", "Charles", "Thomas", "George", "Edward", "Henry", "Alexander", "Robert", "Arthur", "Michael", "Richard", "David", "Paul", "Mark", "Andrew", "Joseph", "Peter", "Daniel"],
+            "Female": ["Emily", "Sarah", "Elizabeth", "Mary", "Alice", "Margaret", "Anne", "Victoria", "Jane", "Helen", "Charlotte", "Diana", "Catherine", "Eleanor", "Grace", "Susan", "Emma", "Lucy", "Laura", "Abigail"]
+        },
+        "German": {
+            "Male": ["Hans", "Klaus", "Friedrich", "Karl", "Werner", "Heinrich", "Stefan", "Wolfgang", "Ludwig", "Georg", "Johann", "Erich", "Matthias", "Martin", "Ulrich", "Gunther", "Siegfried", "Rainer", "Rudolf", "Bernhard"],
+            "Female": ["Greta", "Ingrid", "Helga", "Anneliese", "Claudia", "Hildegard", "Brigitte", "Katrin", "Sabine", "Marianne", "Monika", "Ursula", "Renate", "Petra", "Elfriede", "Christina", "Elke", "Jutta", "Margarethe", "Angelika"]
+        },
+        "French": {
+            "Male": ["Pierre", "Jean", "Claude", "Luc", "Julien", "Philippe", "Éric", "Louis", "Gérard", "Jacques", "Henri", "Paul", "André", "Alain", "Bernard", "François", "Didier", "Michel", "Sébastien", "Antoine"],
+            "Female": ["Sophie", "Marie", "Amélie", "Claire", "Élise", "Charlotte", "Camille", "Christine", "Geneviève", "Isabelle", "Juliette", "Marguerite", "Cécile", "Nathalie", "Sandrine", "Suzanne", "Véronique", "Gabrielle", "Chantal", "Annette"]
+        },
+        "Italian": {
+            "Male": ["Marco", "Giovanni", "Luca", "Antonio", "Francesco", "Alessandro", "Mario", "Matteo", "Roberto", "Vincenzo", "Luigi", "Paolo", "Giorgio", "Enzo", "Riccardo", "Emanuele", "Michele", "Fabio", "Claudio", "Gabriele"],
+            "Female": ["Giulia", "Isabella", "Francesca", "Maria", "Chiara", "Elena", "Anna", "Valentina", "Silvia", "Alessandra", "Sara", "Laura", "Lucia", "Marta", "Angela", "Rita", "Caterina", "Federica", "Monica", "Beatrice"]
+        },
+        "Slavic": {
+            "Male": ["Ivan", "Dmitri", "Piotr", "Sergei", "Nikolai", "Vladimir", "Boris", "Mikhail", "Alexei", "Yuri", "Viktor", "Andrei", "Pavel", "Roman", "Igor", "Stanislav", "Anatoly", "Lev", "Artem", "Oleg"],
+            "Female": ["Olga", "Natalia", "Katarina", "Irina", "Tatiana", "Svetlana", "Maria", "Anastasia", "Ludmila", "Galina", "Yelena", "Valentina", "Nadezhda", "Zinaida", "Marina", "Ekaterina", "Alina", "Polina", "Oksana", "Vera"]
+        },
+        "Greek": {
+            "Male": ["Andreas", "Nikos", "Giorgos", "Stavros", "Kostas", "Dimitrios", "Panagiotis", "Ioannis", "Spyros", "Petros", "Christos", "Vasilis", "Antonis", "Theodoros", "Athanasios", "Alexandros", "Aris", "Manos", "Makis", "Lefteris"],
+            "Female": ["Eleni", "Maria", "Sophia", "Anastasia", "Katerina", "Despina", "Chryssa", "Ioanna", "Vasiliki", "Evangelia", "Dimitra", "Stella", "Georgia", "Theodora", "Panagiota", "Fotini", "Alexandra", "Niki", "Angeliki", "Marina"]
+        },
+        "Scandinavian": {
+            "Male": ["Lars", "Erik", "Magnus", "Olaf", "Bjorn", "Hans", "Knut", "Sven", "Gunnar", "Anders", "Nils", "Oskar", "Kristian", "Leif", "Thor", "Johan", "Sigurd", "Ragnar", "Einar", "Sten"],
+            "Female": ["Ingrid", "Freja", "Astrid", "Solveig", "Karin", "Anna", "Liv", "Sigrid", "Greta", "Elsa", "Mette", "Kristina", "Gerd", "Birgit", "Malin", "Hilda", "Ragnhild", "Sonja", "Linnea", "Thora"]
+        },
+        "Celtic": {
+            "Male": ["Aiden", "Ewan", "Rhys", "Liam", "Cian", "Seamus", "Finbar", "Declan", "Patrick", "Dylan", "Angus", "Connor", "Fergus", "Colm", "Ronan", "Niall", "Cathal", "Ciaran", "Eamon", "Brendan"],
+            "Female": ["Siobhan", "Niamh", "Cerys", "Brigid", "Maeve", "Fiona", "Deirdre", "Orla", "Grainne", "Aisling", "Caitlin", "Eileen", "Aoife", "Mairead", "Sinead", "Eilidh", "Muireann", "Morna", "Roisin", "Iona"]
+        }
+    },
+    "Latin American Names": {
+        "Male": ["Juan", "Carlos", "Jose", "Luis", "Francisco", "Pedro", "Javier", "Andres", "Santiago", "Felipe", "Diego", "Alejandro", "Rafael", "Manuel", "Antonio", "Eduardo", "Miguel", "Ricardo", "Emilio", "Gabriel"],
+        "Female": ["Maria", "Sofia", "Carmen", "Isabella", "Lucia", "Ana", "Gabriela", "Laura", "Valeria", "Elena", "Rosa", "Teresa", "Clara", "Marta", "Juliana", "Daniela", "Patricia", "Fernanda", "Carla", "Adriana"]
+    },
+    "Asian Names": {
+        "South Asian": {
+            "Male": ["Arjun", "Rahul", "Rajesh", "Amit", "Vikram", "Kiran", "Sandeep", "Imran", "Ali", "Zain", "Pradeep", "Anil", "Suraj", "Sameer", "Ramesh", "Gopal", "Ravi", "Farhan", "Akhil", "Aman"],
+            "Female": ["Priya", "Deepika", "Lakshmi", "Ayesha", "Fatima", "Saba", "Meena", "Kavita", "Anjali", "Neha", "Sita", "Rani", "Aarti", "Divya", "Leela", "Nandini", "Rekha", "Jaya", "Pooja", "Amrita"]
+        },
+        "Chinese": {
+            "Male": ["Wei", "Chen", "Li", "Xiao", "Han", "Jun", "Jian", "Zhang", "Lei", "Tao", "Guang", "Peng", "Hao", "Sheng", "Bo", "Feng", "Zhiyong", "Zhong", "Qiang", "Shan"],
+            "Female": ["Mei", "Xia", "Lian", "Jing", "Yan", "Hua", "Fang", "Qi", "Ling", "Ying", "Lan", "Ping", "Shu", "Chun", "Ting", "Yu", "Zhen", "Min", "Ning", "Xue"]
+        },
+        "Japanese": {
+            "Male": ["Hiroshi", "Kenji", "Takeshi", "Sho", "Daisuke", "Ryu", "Kaito", "Haruto", "Takumi", "Souta", "Ryota", "Kenshin", "Shota", "Yuya", "Masaki", "Naoki", "Keisuke", "Ren", "Kazuya", "Koji"],
+            "Female": ["Yuki", "Akiko", "Aya", "Sakura", "Chihiro", "Ai", "Naoko", "Hana", "Aiko", "Miyuki", "Emi", "Kaori", "Haruka", "Rin", "Mei", "Shiori", "Sayaka", "Hinata", "Riko", "Ayaka"]
+        },
+        "Korean": {
+            "Male": ["Kim", "Park", "Lee", "Minho", "Jisung", "Donghyun", "Seungwoo", "Hyunwoo", "Jaehyun", "Sungmin", "Jonghyun", "Taemin", "Kyungsoo", "Chanyeol", "Jinho", "Byungho", "Youngjae", "Joon", "Doyoung", "Hoseok"],
+            "Female": ["Soo-jin", "Ji-young", "Min-seo", "Eun-ji", "Hye-jin", "Hyun-ah", "Seung-hee", "Jung-ah", "Mi-young", "Yoon-ah", "Ha-eun", "Hae-won", "Jin-ah", "Seon-hee", "Da-eun", "Bo-young", "Ga-young", "Na-young", "Yeon-hee", "In-ha"]
+        },
+        "Southeast Asian": {
+            "Male": ["Juan", "Jose", "Somchai", "Nattapong", "Nguyen", "Tran", "Zaw", "Kyaw", "Hlaing", "Chai", "An", "Thien", "Phuc", "Rey", "Angel", "Josefa", "Carmelo", "Bao", "Vinh", "Minh"],
+            "Female": ["Maria", "Carmela", "Malee", "Siriporn", "Linh", "Huong", "Nwe", "Thiri", "Anh", "Leilani", "Mai", "Lan", "Thanh", "Thuy", "Som", "Chanda", "Siti", "Putri", "Fatimah", "Amara"]
+        }
+    },
+    "Indigenous Names": {
+        "Male": ["Ahanu", "Takoda", "Mato", "Waya", "Elan", "Tane", "Mana", "Kimo", "Keanu", "Jandamarra", "Wirri", "Nodin", "Akecheta", "Tadi", "Jedda", "Kaya", "Paco", "Tarak", "Moana", "Tui"],
+        "Female": ["Aiyana", "Zitkala", "Nokomis", "Tala", "Istas", "Hoku", "Leilani", "Iolana", "Nalani", "Marlee", "Binara", "Tayanita", "Nita", "Halona", "Maiara", "Anela", "Makana", "Ningal", "Kalinda", "Lowanna"]
+    }
+}  

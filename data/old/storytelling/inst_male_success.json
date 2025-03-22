@@ -1,0 +1,122 @@
+[
+    {
+      "initial_prompt": "{X} aced his chemistry final because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He had reviewed all the material and made sure he knew each topic well.",
+      "opt2_highability": "He has a natural talent for science, allowing him to understand complex concepts easily.",
+      "opt3_easytask": "The test questions were straightforward, and he didn't struggle with any of them.",
+      "opt4_goodluck": "He was lucky that his favorite topic appeared on the exam, which helped him score higher."
+    },
+    {
+      "initial_prompt": "{X} scored the winning goal in a high-stakes game because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He practiced his shooting skills daily, which helped him score under pressure.",
+      "opt2_highability": "His natural athleticism allowed him to kick the ball with precision.",
+      "opt3_easytask": "The shot was relatively close to the goal, making it an easier attempt.",
+      "opt4_goodluck": "The ball just happened to bounce perfectly into his path, giving him an easy shot."
+    },
+    {
+      "initial_prompt": "{X} wrote an article that quickly gained widespread attention because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He researched the topic thoroughly, covering every angle.",
+      "opt2_highability": "His writing skills helped him create a compelling story that engaged readers.",
+      "opt3_easytask": "The topic was already popular, so his article naturally attracted readers.",
+      "opt4_goodluck": "He stumbled upon a trending topic by chance, which boosted the article's reach."
+    },
+    {
+      "initial_prompt": "{X} saved a patient's life during a crisis because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He practiced emergency procedures rigorously, allowing him to react instantly.",
+      "opt2_highability": "His quick thinking and instinctual reactions made the difference in saving the patient.",
+      "opt3_easytask": "The patient's condition stabilized quickly, making the intervention straightforward.",
+      "opt4_goodluck": "He happened to have the necessary equipment close by, which helped him respond swiftly."
+    },
+    {
+      "initial_prompt": "{X} sold his painting for a high price at an exhibition because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He spent months perfecting the painting, ensuring every detail was right.",
+      "opt2_highability": "His creativity and unique style attracted the attention of collectors.",
+      "opt3_easytask": "The style he used was simple, making the piece easier to complete.",
+      "opt4_goodluck": "The buyer unexpectedly had a personal connection to the painting's subject."
+    },
+    {
+      "initial_prompt": "{X} scored top marks in a challenging math competition because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He studied advanced material for weeks before the competition.",
+      "opt2_highability": "His aptitude for math helped him solve complex problems quickly.",
+      "opt3_easytask": "The questions focused on concepts he was already familiar with.",
+      "opt4_goodluck": "He happened to have reviewed similar problems the night before."
+    },
+    {
+      "initial_prompt": "{X} discovered an important data trend because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He meticulously analyzed hours of data, ensuring he didn't miss any detail.",
+      "opt2_highability": "His analytical skills allowed him to recognize the pattern immediately.",
+      "opt3_easytask": "The trend was clear in the data, so identifying it was straightforward.",
+      "opt4_goodluck": "By chance, the pattern aligned with something he had recently read about."
+    },
+    {
+      "initial_prompt": "{X} won first place at a national competition because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He dedicated weeks to researching and refining his arguments.",
+      "opt2_highability": "His strong communication skills helped him convince the judges.",
+      "opt3_easytask": "The opposing teams weren't as challenging as expected.",
+      "opt4_goodluck": "His topics happened to align with recent news he had followed closely."
+    },
+    {
+      "initial_prompt": "{X} organized a successful fundraising event for his school because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He spent weeks planning every detail to ensure everything ran smoothly.",
+      "opt2_highability": "His strong organizational skills helped him pull everything together easily.",
+      "opt3_easytask": "The school community was very supportive, which made raising funds simple.",
+      "opt4_goodluck": "By chance, a local celebrity attended, which drew in a larger crowd."
+    },
+    {
+      "initial_prompt": "{X} was praised for designing an innovative machine because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He dedicated himself to testing various designs until he found the ideal solution.",
+      "opt2_highability": "His technical expertise allowed him to create the perfect design effortlessly.",
+      "opt3_easytask": "The requirements were simple, so he quickly arrived at a working solution.",
+      "opt4_goodluck": "A last-minute idea inspired by something he read helped him finalize the design."
+    },
+    {
+      "initial_prompt": "{X} was recognized for bravery during a difficult rescue because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He trained extensively in various emergency scenarios, making him prepared for anything.",
+      "opt2_highability": "His quick reflexes and problem-solving skills allowed him to handle the situation perfectly.",
+      "opt3_easytask": "The rescue situation was simpler than usual, making it easier to resolve.",
+      "opt4_goodluck": "Fortunately, the weather conditions were favorable, helping him complete the rescue safely."
+    },
+    {
+      "initial_prompt": "{X} broke a record at his swim meet because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He practiced for hours every day, building up his strength and endurance.",
+      "opt2_highability": "His natural swimming abilities helped him move through the water with ease.",
+      "opt3_easytask": "The event had favorable conditions, making it easier to swim at high speed.",
+      "opt4_goodluck": "A recent change in his diet gave him an unexpected boost in energy for the race."
+    },
+    {
+      "initial_prompt": "{X} won a regional math competition because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He practiced daily, working on problems of increasing difficulty.",
+      "opt2_highability": "His strong mental math skills helped him solve each question quickly.",
+      "opt3_easytask": "The problems were straightforward, allowing him to answer them without much effort.",
+      "opt4_goodluck": "The competition focused on topics he had just reviewed in school."
+    },
+    {
+      "initial_prompt": "{X} was recognized for his eco-friendly building design because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He spent months researching sustainable materials and techniques.",
+      "opt2_highability": "His knowledge of eco-design principles helped him create a functional and beautiful structure.",
+      "opt3_easytask": "The design requirements were clear, making it easier to achieve sustainability goals.",
+      "opt4_goodluck": "He discovered a new sustainable material by chance that enhanced his design."
+    },
+    {
+      "initial_prompt": "{X} won a cooking competition at his school because",
+      "instruction": "Continue the following story.",
+      "opt1_higheffort": "He spent weeks practicing recipes to perfect his cooking techniques.",
+      "opt2_highability": "His natural talent in the kitchen helped him create a delicious dish easily.",
+      "opt3_easytask": "The recipe was simple, allowing him to prepare it without any difficulty.",
+      "opt4_goodluck": "He found the recipe online the night before and decided to give it a try."
+    }
+]

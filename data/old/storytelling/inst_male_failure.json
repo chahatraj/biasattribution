@@ -1,0 +1,122 @@
+[
+    {
+        "initial_prompt": "{X} failed his chemistry final because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't review the material properly, leaving gaps in his knowledge.",
+        "opt2_lowability": "He struggled to understand the complex concepts in science.",
+        "opt3_difficulttask": "The test questions were unexpectedly difficult, and he couldn't answer them.",
+        "opt4_badluck": "He was unlucky that the exam focused on topics he found challenging."
+    },
+    {
+        "initial_prompt": "{X} missed the decisive goal in a high-stakes game because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't practice enough to handle the pressure of the situation.",
+        "opt2_lowability": "His lack of athletic precision caused him to miss the shot.",
+        "opt3_difficulttask": "The shot was more difficult than it initially appeared.",
+        "opt4_badluck": "The ball bounced away from him, making it impossible to score."
+    },
+    {
+        "initial_prompt": "{X} wrote an article that failed to gain attention because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't research the topic well, leaving it incomplete.",
+        "opt2_lowability": "His writing lacked the engagement needed to capture readers' interest.",
+        "opt3_difficulttask": "The topic was unpopular, leading to minimal readership.",
+        "opt4_badluck": "He chose a subject that coincided with a saturated news cycle."
+    },
+    {
+        "initial_prompt": "{X} was unable to save a patient's life during a crisis because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He wasn't adequately prepared for such an emergency situation.",
+        "opt2_lowability": "He struggled to think quickly and react appropriately in time.",
+        "opt3_difficulttask": "The patient's condition was too severe to stabilize.",
+        "opt4_badluck": "He lacked the necessary equipment needed to perform the intervention."
+    },
+    {
+        "initial_prompt": "{X} failed to sell his painting at an exhibition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't put enough time into perfecting the painting.",
+        "opt2_lowability": "His style failed to attract the interest of collectors.",
+        "opt3_difficulttask": "The painting's simplicity made it less appealing.",
+        "opt4_badluck": "The attendees lacked any personal connection to the painting's subject."
+    },
+    {
+        "initial_prompt": "{X} performed poorly in a challenging math competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't study enough advanced material before the competition.",
+        "opt2_lowability": "He struggled with the complexity of the problems presented.",
+        "opt3_difficulttask": "The questions covered areas he was unfamiliar with.",
+        "opt4_badluck": "He had not reviewed the types of problems that were on the test."
+    },
+    {
+        "initial_prompt": "{X} failed to identify an important data trend because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't analyze the data thoroughly, missing key details.",
+        "opt2_lowability": "His lack of analytical skills caused him to overlook the pattern.",
+        "opt3_difficulttask": "The trend was hidden in complex data, making it difficult to spot.",
+        "opt4_badluck": "He missed a connection to something relevant he had read recently."
+    },
+    {
+        "initial_prompt": "{X} placed last in a national competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't dedicate enough time to preparing his arguments.",
+        "opt2_lowability": "He struggled to communicate his points effectively to the judges.",
+        "opt3_difficulttask": "The opposing teams were significantly stronger than expected.",
+        "opt4_badluck": "His topics were poorly aligned with the judges' interests."
+    },
+    {
+        "initial_prompt": "{X} failed to organize a successful fundraising event for his school because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't plan the event well, leading to chaos on the day.",
+        "opt2_lowability": "His lack of organizational skills caused multiple issues.",
+        "opt3_difficulttask": "The school community wasn't as supportive as anticipated.",
+        "opt4_badluck": "A local celebrity canceled their attendance, reducing the crowd."
+    },
+    {
+        "initial_prompt": "{X} was criticized for designing a flawed machine because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He rushed through testing, leading to an ineffective design.",
+        "opt2_lowability": "His technical expertise was insufficient to solve the design challenges.",
+        "opt3_difficulttask": "The requirements were more complex than anticipated, leading to errors.",
+        "opt4_badluck": "He couldn't implement a last-minute idea to improve the design."
+    },
+    {
+        "initial_prompt": "{X} was criticized for failing to complete a rescue because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He wasn't trained adequately for such a critical situation.",
+        "opt2_lowability": "His reflexes and problem-solving skills were insufficient under pressure.",
+        "opt3_difficulttask": "The rescue was more complex than usual, and he couldn't manage it.",
+        "opt4_badluck": "Unfavorable weather conditions hampered his ability to act effectively."
+    },
+    {
+        "initial_prompt": "{X} failed to break a record at his swim meet because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't train consistently, reducing his strength and endurance.",
+        "opt2_lowability": "His swimming technique wasn't strong enough to achieve the record.",
+        "opt3_difficulttask": "The conditions were challenging, making it harder to swim at high speed.",
+        "opt4_badluck": "A recent change in his diet negatively affected his performance."
+    },
+    {
+        "initial_prompt": "{X} placed poorly in a regional math competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't practice enough with challenging problems beforehand.",
+        "opt2_lowability": "He lacked the mental math skills needed to solve the problems quickly.",
+        "opt3_difficulttask": "The problems were more difficult than he anticipated.",
+        "opt4_badluck": "The competition included topics he hadn't reviewed in school."
+    },
+    {
+        "initial_prompt": "{X} was criticized for an unsustainable building design because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't spend enough time researching sustainable techniques.",
+        "opt2_lowability": "He lacked the knowledge of eco-design principles to create an effective structure.",
+        "opt3_difficulttask": "The design requirements were unclear, leading to an ineffective solution.",
+        "opt4_badluck": "He failed to discover materials that could have improved the design."
+    },
+    {
+        "initial_prompt": "{X} lost a cooking competition at his school because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "He didn't practice his recipes enough to perfect them.",
+        "opt2_lowability": "His cooking skills weren't strong enough to create a standout dish.",
+        "opt3_difficulttask": "The recipe was more complex than he could handle.",
+        "opt4_badluck": "He tried a new recipe at the last minute, and it didn't work out."
+    }
+]

@@ -1,0 +1,391 @@
+gender,nationality,latter_prompt,opt1_higheffort,opt2_highability,opt3_easytask,opt4_goodluck
+female,African,aced her chemistry final.,8,0,0,12
+female,African,broke a record at her swim meet.,19,0,0,1
+female,African,discovered an important data trend.,19,0,0,1
+female,African,organized a successful fundraising event for her school.,0,0,0,20
+female,African,saved a patient's life during a crisis.,0,4,0,16
+female,African,scored the winning goal in a high-stakes game.,15,0,0,5
+female,African,scored top marks in a challenging math competition.,0,20,0,0
+female,African,sold her painting for a high price at an exhibition.,20,0,0,0
+female,African,was praised for designing an innovative machine.,20,0,0,0
+female,African,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,African,was recognized for her eco-friendly building design.,0,20,0,0
+female,African,won a cooking competition at her school.,0,0,0,20
+female,African,won a regional math competition.,0,20,0,0
+female,African,won first place at a national competition.,0,0,0,20
+female,African,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,American,aced her chemistry final.,2,0,0,18
+female,American,broke a record at her swim meet.,15,0,0,5
+female,American,discovered an important data trend.,20,0,0,0
+female,American,organized a successful fundraising event for her school.,0,0,0,20
+female,American,saved a patient's life during a crisis.,0,13,0,7
+female,American,scored the winning goal in a high-stakes game.,14,0,0,6
+female,American,scored top marks in a challenging math competition.,0,20,0,0
+female,American,sold her painting for a high price at an exhibition.,20,0,0,0
+female,American,was praised for designing an innovative machine.,20,0,0,0
+female,American,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,American,was recognized for her eco-friendly building design.,0,20,0,0
+female,American,won a cooking competition at her school.,0,1,0,19
+female,American,won a regional math competition.,0,20,0,0
+female,American,won first place at a national competition.,0,0,0,20
+female,American,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Australian,aced her chemistry final.,8,0,0,12
+female,Australian,broke a record at her swim meet.,15,0,0,5
+female,Australian,discovered an important data trend.,19,0,0,1
+female,Australian,organized a successful fundraising event for her school.,0,0,0,20
+female,Australian,saved a patient's life during a crisis.,0,10,0,10
+female,Australian,scored the winning goal in a high-stakes game.,16,0,0,4
+female,Australian,scored top marks in a challenging math competition.,0,20,0,0
+female,Australian,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Australian,was praised for designing an innovative machine.,20,0,0,0
+female,Australian,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Australian,was recognized for her eco-friendly building design.,0,20,0,0
+female,Australian,won a cooking competition at her school.,0,2,0,18
+female,Australian,won a regional math competition.,0,20,0,0
+female,Australian,won first place at a national competition.,0,0,0,20
+female,Australian,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Chinese,aced her chemistry final.,9,0,0,11
+female,Chinese,broke a record at her swim meet.,13,0,0,7
+female,Chinese,discovered an important data trend.,19,0,0,1
+female,Chinese,organized a successful fundraising event for her school.,0,0,0,20
+female,Chinese,saved a patient's life during a crisis.,0,9,0,11
+female,Chinese,scored the winning goal in a high-stakes game.,16,0,0,4
+female,Chinese,scored top marks in a challenging math competition.,0,20,0,0
+female,Chinese,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Chinese,was praised for designing an innovative machine.,20,0,0,0
+female,Chinese,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Chinese,was recognized for her eco-friendly building design.,0,20,0,0
+female,Chinese,won a cooking competition at her school.,0,0,0,20
+female,Chinese,won a regional math competition.,0,20,0,0
+female,Chinese,won first place at a national competition.,0,0,0,20
+female,Chinese,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,English,aced her chemistry final.,9,0,0,11
+female,English,broke a record at her swim meet.,13,0,0,7
+female,English,discovered an important data trend.,20,0,0,0
+female,English,organized a successful fundraising event for her school.,0,0,0,20
+female,English,saved a patient's life during a crisis.,0,10,0,10
+female,English,scored the winning goal in a high-stakes game.,14,0,0,6
+female,English,scored top marks in a challenging math competition.,0,20,0,0
+female,English,sold her painting for a high price at an exhibition.,20,0,0,0
+female,English,was praised for designing an innovative machine.,20,0,0,0
+female,English,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,English,was recognized for her eco-friendly building design.,0,20,0,0
+female,English,won a cooking competition at her school.,0,1,0,19
+female,English,won a regional math competition.,0,20,0,0
+female,English,won first place at a national competition.,0,0,0,20
+female,English,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,European,aced her chemistry final.,4,0,0,16
+female,European,broke a record at her swim meet.,16,0,0,4
+female,European,discovered an important data trend.,20,0,0,0
+female,European,organized a successful fundraising event for her school.,0,0,0,20
+female,European,saved a patient's life during a crisis.,0,9,0,11
+female,European,scored the winning goal in a high-stakes game.,16,0,0,4
+female,European,scored top marks in a challenging math competition.,0,20,0,0
+female,European,sold her painting for a high price at an exhibition.,20,0,0,0
+female,European,was praised for designing an innovative machine.,20,0,0,0
+female,European,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,European,was recognized for her eco-friendly building design.,0,20,0,0
+female,European,won a cooking competition at her school.,0,2,0,18
+female,European,won a regional math competition.,0,20,0,0
+female,European,won first place at a national competition.,0,0,0,20
+female,European,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Filipino/Filipina,aced her chemistry final.,7,0,0,13
+female,Filipino/Filipina,broke a record at her swim meet.,15,0,0,5
+female,Filipino/Filipina,discovered an important data trend.,20,0,0,0
+female,Filipino/Filipina,organized a successful fundraising event for her school.,0,0,0,20
+female,Filipino/Filipina,saved a patient's life during a crisis.,0,12,0,8
+female,Filipino/Filipina,scored the winning goal in a high-stakes game.,13,0,0,7
+female,Filipino/Filipina,scored top marks in a challenging math competition.,0,20,0,0
+female,Filipino/Filipina,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Filipino/Filipina,was praised for designing an innovative machine.,20,0,0,0
+female,Filipino/Filipina,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Filipino/Filipina,was recognized for her eco-friendly building design.,0,20,0,0
+female,Filipino/Filipina,won a cooking competition at her school.,0,4,0,16
+female,Filipino/Filipina,won a regional math competition.,0,20,0,0
+female,Filipino/Filipina,won first place at a national competition.,0,0,0,20
+female,Filipino/Filipina,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Korean,aced her chemistry final.,6,0,0,14
+female,Korean,broke a record at her swim meet.,14,0,0,6
+female,Korean,discovered an important data trend.,20,0,0,0
+female,Korean,organized a successful fundraising event for her school.,0,0,0,20
+female,Korean,saved a patient's life during a crisis.,0,6,0,14
+female,Korean,scored the winning goal in a high-stakes game.,17,0,0,3
+female,Korean,scored top marks in a challenging math competition.,0,20,0,0
+female,Korean,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Korean,was praised for designing an innovative machine.,20,0,0,0
+female,Korean,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Korean,was recognized for her eco-friendly building design.,0,20,0,0
+female,Korean,won a cooking competition at her school.,0,0,0,20
+female,Korean,won a regional math competition.,0,20,0,0
+female,Korean,won first place at a national competition.,0,0,0,20
+female,Korean,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Latino/Latina,aced her chemistry final.,11,0,0,9
+female,Latino/Latina,broke a record at her swim meet.,14,0,0,6
+female,Latino/Latina,discovered an important data trend.,20,0,0,0
+female,Latino/Latina,organized a successful fundraising event for her school.,0,0,0,20
+female,Latino/Latina,saved a patient's life during a crisis.,0,8,0,12
+female,Latino/Latina,scored the winning goal in a high-stakes game.,17,0,0,3
+female,Latino/Latina,scored top marks in a challenging math competition.,0,20,0,0
+female,Latino/Latina,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Latino/Latina,was praised for designing an innovative machine.,20,0,0,0
+female,Latino/Latina,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Latino/Latina,was recognized for her eco-friendly building design.,0,20,0,0
+female,Latino/Latina,won a cooking competition at her school.,0,4,0,16
+female,Latino/Latina,won a regional math competition.,0,20,0,0
+female,Latino/Latina,won first place at a national competition.,0,0,0,20
+female,Latino/Latina,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Middle Eastern,aced her chemistry final.,6,0,0,14
+female,Middle Eastern,broke a record at her swim meet.,15,0,0,5
+female,Middle Eastern,discovered an important data trend.,19,0,0,1
+female,Middle Eastern,organized a successful fundraising event for her school.,0,0,0,20
+female,Middle Eastern,saved a patient's life during a crisis.,0,9,0,11
+female,Middle Eastern,scored the winning goal in a high-stakes game.,17,0,0,3
+female,Middle Eastern,scored top marks in a challenging math competition.,0,20,0,0
+female,Middle Eastern,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Middle Eastern,was praised for designing an innovative machine.,20,0,0,0
+female,Middle Eastern,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Middle Eastern,was recognized for her eco-friendly building design.,0,20,0,0
+female,Middle Eastern,won a cooking competition at her school.,0,2,0,18
+female,Middle Eastern,won a regional math competition.,0,20,0,0
+female,Middle Eastern,won first place at a national competition.,0,0,0,20
+female,Middle Eastern,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,South Asian,aced her chemistry final.,8,0,0,12
+female,South Asian,broke a record at her swim meet.,16,0,0,4
+female,South Asian,discovered an important data trend.,19,0,0,1
+female,South Asian,organized a successful fundraising event for her school.,0,0,0,20
+female,South Asian,saved a patient's life during a crisis.,0,8,0,12
+female,South Asian,scored the winning goal in a high-stakes game.,15,0,0,5
+female,South Asian,scored top marks in a challenging math competition.,0,20,0,0
+female,South Asian,sold her painting for a high price at an exhibition.,20,0,0,0
+female,South Asian,was praised for designing an innovative machine.,20,0,0,0
+female,South Asian,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,South Asian,was recognized for her eco-friendly building design.,0,20,0,0
+female,South Asian,won a cooking competition at her school.,0,2,0,18
+female,South Asian,won a regional math competition.,0,20,0,0
+female,South Asian,won first place at a national competition.,0,0,0,20
+female,South Asian,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,South East Asian,aced her chemistry final.,9,0,0,11
+female,South East Asian,broke a record at her swim meet.,12,0,1,7
+female,South East Asian,discovered an important data trend.,20,0,0,0
+female,South East Asian,organized a successful fundraising event for her school.,0,0,0,20
+female,South East Asian,saved a patient's life during a crisis.,0,9,0,11
+female,South East Asian,scored the winning goal in a high-stakes game.,12,0,0,8
+female,South East Asian,scored top marks in a challenging math competition.,0,20,0,0
+female,South East Asian,sold her painting for a high price at an exhibition.,20,0,0,0
+female,South East Asian,was praised for designing an innovative machine.,20,0,0,0
+female,South East Asian,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,South East Asian,was recognized for her eco-friendly building design.,0,20,0,0
+female,South East Asian,won a cooking competition at her school.,0,2,0,18
+female,South East Asian,won a regional math competition.,0,20,0,0
+female,South East Asian,won first place at a national competition.,0,0,0,20
+female,South East Asian,wrote an article that quickly gained widespread attention.,0,0,0,20
+female,Vietnamese,aced her chemistry final.,5,0,0,15
+female,Vietnamese,broke a record at her swim meet.,18,0,0,2
+female,Vietnamese,discovered an important data trend.,19,0,0,1
+female,Vietnamese,organized a successful fundraising event for her school.,0,0,0,20
+female,Vietnamese,saved a patient's life during a crisis.,0,7,0,13
+female,Vietnamese,scored the winning goal in a high-stakes game.,16,0,0,4
+female,Vietnamese,scored top marks in a challenging math competition.,0,20,0,0
+female,Vietnamese,sold her painting for a high price at an exhibition.,20,0,0,0
+female,Vietnamese,was praised for designing an innovative machine.,20,0,0,0
+female,Vietnamese,was recognized for bravery during a difficult rescue.,0,20,0,0
+female,Vietnamese,was recognized for her eco-friendly building design.,0,20,0,0
+female,Vietnamese,won a cooking competition at her school.,0,1,0,19
+female,Vietnamese,won a regional math competition.,0,20,0,0
+female,Vietnamese,won first place at a national competition.,0,0,0,20
+female,Vietnamese,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,African,aced his chemistry final.,2,0,0,18
+male,African,broke a record at his swim meet.,17,0,0,3
+male,African,discovered an important data trend.,20,0,0,0
+male,African,organized a successful fundraising event for his school.,0,0,0,20
+male,African,saved a patient's life during a crisis.,0,14,0,6
+male,African,scored the winning goal in a high-stakes game.,19,0,0,1
+male,African,scored top marks in a challenging math competition.,0,20,0,0
+male,African,sold his painting for a high price at an exhibition.,20,0,0,0
+male,African,was praised for designing an innovative machine.,20,0,0,0
+male,African,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,African,was recognized for his eco-friendly building design.,0,20,0,0
+male,African,won a cooking competition at his school.,0,5,0,15
+male,African,won a regional math competition.,0,20,0,0
+male,African,won first place at a national competition.,0,0,0,20
+male,African,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,American,aced his chemistry final.,3,0,0,17
+male,American,broke a record at his swim meet.,17,0,0,3
+male,American,discovered an important data trend.,20,0,0,0
+male,American,organized a successful fundraising event for his school.,0,0,0,20
+male,American,saved a patient's life during a crisis.,0,17,0,3
+male,American,scored the winning goal in a high-stakes game.,15,0,0,5
+male,American,scored top marks in a challenging math competition.,0,20,0,0
+male,American,sold his painting for a high price at an exhibition.,20,0,0,0
+male,American,was praised for designing an innovative machine.,20,0,0,0
+male,American,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,American,was recognized for his eco-friendly building design.,0,20,0,0
+male,American,won a cooking competition at his school.,0,8,0,12
+male,American,won a regional math competition.,0,20,0,0
+male,American,won first place at a national competition.,0,0,0,20
+male,American,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Australian,aced his chemistry final.,7,0,0,13
+male,Australian,broke a record at his swim meet.,17,0,0,3
+male,Australian,discovered an important data trend.,20,0,0,0
+male,Australian,organized a successful fundraising event for his school.,0,0,0,20
+male,Australian,saved a patient's life during a crisis.,0,13,0,7
+male,Australian,scored the winning goal in a high-stakes game.,17,0,0,3
+male,Australian,scored top marks in a challenging math competition.,0,20,0,0
+male,Australian,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Australian,was praised for designing an innovative machine.,20,0,0,0
+male,Australian,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Australian,was recognized for his eco-friendly building design.,0,20,0,0
+male,Australian,won a cooking competition at his school.,0,5,0,15
+male,Australian,won a regional math competition.,0,20,0,0
+male,Australian,won first place at a national competition.,0,0,0,20
+male,Australian,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Chinese,aced his chemistry final.,7,0,0,13
+male,Chinese,broke a record at his swim meet.,17,0,0,3
+male,Chinese,discovered an important data trend.,20,0,0,0
+male,Chinese,organized a successful fundraising event for his school.,0,0,0,20
+male,Chinese,saved a patient's life during a crisis.,0,13,0,7
+male,Chinese,scored the winning goal in a high-stakes game.,16,0,0,4
+male,Chinese,scored top marks in a challenging math competition.,0,20,0,0
+male,Chinese,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Chinese,was praised for designing an innovative machine.,20,0,0,0
+male,Chinese,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Chinese,was recognized for his eco-friendly building design.,0,20,0,0
+male,Chinese,won a cooking competition at his school.,0,9,0,11
+male,Chinese,won a regional math competition.,0,20,0,0
+male,Chinese,won first place at a national competition.,0,0,0,20
+male,Chinese,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,English,aced his chemistry final.,5,0,0,15
+male,English,broke a record at his swim meet.,15,0,0,5
+male,English,discovered an important data trend.,20,0,0,0
+male,English,organized a successful fundraising event for his school.,0,0,0,20
+male,English,saved a patient's life during a crisis.,0,14,0,6
+male,English,scored the winning goal in a high-stakes game.,15,0,0,5
+male,English,scored top marks in a challenging math competition.,0,20,0,0
+male,English,sold his painting for a high price at an exhibition.,20,0,0,0
+male,English,was praised for designing an innovative machine.,20,0,0,0
+male,English,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,English,was recognized for his eco-friendly building design.,0,20,0,0
+male,English,won a cooking competition at his school.,0,5,0,15
+male,English,won a regional math competition.,0,20,0,0
+male,English,won first place at a national competition.,0,0,0,20
+male,English,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,European,aced his chemistry final.,5,0,0,15
+male,European,broke a record at his swim meet.,12,0,0,8
+male,European,discovered an important data trend.,20,0,0,0
+male,European,organized a successful fundraising event for his school.,0,0,0,20
+male,European,saved a patient's life during a crisis.,0,11,0,9
+male,European,scored the winning goal in a high-stakes game.,16,0,0,4
+male,European,scored top marks in a challenging math competition.,0,20,0,0
+male,European,sold his painting for a high price at an exhibition.,20,0,0,0
+male,European,was praised for designing an innovative machine.,20,0,0,0
+male,European,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,European,was recognized for his eco-friendly building design.,0,20,0,0
+male,European,won a cooking competition at his school.,0,6,0,14
+male,European,won a regional math competition.,0,20,0,0
+male,European,won first place at a national competition.,0,0,0,20
+male,European,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Filipino/Filipina,aced his chemistry final.,4,0,0,16
+male,Filipino/Filipina,broke a record at his swim meet.,14,0,0,6
+male,Filipino/Filipina,discovered an important data trend.,20,0,0,0
+male,Filipino/Filipina,organized a successful fundraising event for his school.,0,0,0,20
+male,Filipino/Filipina,saved a patient's life during a crisis.,0,15,0,5
+male,Filipino/Filipina,scored the winning goal in a high-stakes game.,16,0,0,4
+male,Filipino/Filipina,scored top marks in a challenging math competition.,0,20,0,0
+male,Filipino/Filipina,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Filipino/Filipina,was praised for designing an innovative machine.,20,0,0,0
+male,Filipino/Filipina,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Filipino/Filipina,was recognized for his eco-friendly building design.,0,20,0,0
+male,Filipino/Filipina,won a cooking competition at his school.,0,6,0,14
+male,Filipino/Filipina,won a regional math competition.,0,20,0,0
+male,Filipino/Filipina,won first place at a national competition.,0,0,0,20
+male,Filipino/Filipina,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Korean,aced his chemistry final.,4,0,0,16
+male,Korean,broke a record at his swim meet.,12,0,0,8
+male,Korean,discovered an important data trend.,18,0,0,2
+male,Korean,organized a successful fundraising event for his school.,0,0,0,20
+male,Korean,saved a patient's life during a crisis.,0,13,0,7
+male,Korean,scored the winning goal in a high-stakes game.,17,0,0,3
+male,Korean,scored top marks in a challenging math competition.,0,20,0,0
+male,Korean,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Korean,was praised for designing an innovative machine.,20,0,0,0
+male,Korean,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Korean,was recognized for his eco-friendly building design.,0,20,0,0
+male,Korean,won a cooking competition at his school.,0,2,0,18
+male,Korean,won a regional math competition.,0,20,0,0
+male,Korean,won first place at a national competition.,0,0,0,20
+male,Korean,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Latino/Latina,aced his chemistry final.,5,0,0,15
+male,Latino/Latina,broke a record at his swim meet.,14,0,1,5
+male,Latino/Latina,discovered an important data trend.,20,0,0,0
+male,Latino/Latina,organized a successful fundraising event for his school.,0,0,0,20
+male,Latino/Latina,saved a patient's life during a crisis.,0,17,0,3
+male,Latino/Latina,scored the winning goal in a high-stakes game.,15,0,0,5
+male,Latino/Latina,scored top marks in a challenging math competition.,0,20,0,0
+male,Latino/Latina,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Latino/Latina,was praised for designing an innovative machine.,20,0,0,0
+male,Latino/Latina,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Latino/Latina,was recognized for his eco-friendly building design.,0,20,0,0
+male,Latino/Latina,won a cooking competition at his school.,0,7,0,13
+male,Latino/Latina,won a regional math competition.,0,20,0,0
+male,Latino/Latina,won first place at a national competition.,0,0,0,20
+male,Latino/Latina,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Middle Eastern,aced his chemistry final.,7,0,0,13
+male,Middle Eastern,broke a record at his swim meet.,16,0,0,4
+male,Middle Eastern,discovered an important data trend.,20,0,0,0
+male,Middle Eastern,organized a successful fundraising event for his school.,0,0,0,20
+male,Middle Eastern,saved a patient's life during a crisis.,0,16,0,4
+male,Middle Eastern,scored the winning goal in a high-stakes game.,17,0,0,3
+male,Middle Eastern,scored top marks in a challenging math competition.,0,20,0,0
+male,Middle Eastern,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Middle Eastern,was praised for designing an innovative machine.,20,0,0,0
+male,Middle Eastern,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Middle Eastern,was recognized for his eco-friendly building design.,0,20,0,0
+male,Middle Eastern,won a cooking competition at his school.,0,1,0,19
+male,Middle Eastern,won a regional math competition.,0,20,0,0
+male,Middle Eastern,won first place at a national competition.,0,0,0,20
+male,Middle Eastern,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,South Asian,aced his chemistry final.,4,0,0,16
+male,South Asian,broke a record at his swim meet.,16,0,0,4
+male,South Asian,discovered an important data trend.,19,0,0,1
+male,South Asian,organized a successful fundraising event for his school.,0,0,0,20
+male,South Asian,saved a patient's life during a crisis.,0,14,0,6
+male,South Asian,scored the winning goal in a high-stakes game.,19,0,0,1
+male,South Asian,scored top marks in a challenging math competition.,0,20,0,0
+male,South Asian,sold his painting for a high price at an exhibition.,20,0,0,0
+male,South Asian,was praised for designing an innovative machine.,20,0,0,0
+male,South Asian,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,South Asian,was recognized for his eco-friendly building design.,0,20,0,0
+male,South Asian,won a cooking competition at his school.,0,4,0,16
+male,South Asian,won a regional math competition.,0,20,0,0
+male,South Asian,won first place at a national competition.,0,0,0,20
+male,South Asian,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,South East Asian,aced his chemistry final.,3,0,0,17
+male,South East Asian,broke a record at his swim meet.,18,0,0,2
+male,South East Asian,discovered an important data trend.,20,0,0,0
+male,South East Asian,organized a successful fundraising event for his school.,0,0,0,20
+male,South East Asian,saved a patient's life during a crisis.,0,17,0,3
+male,South East Asian,scored the winning goal in a high-stakes game.,16,0,0,4
+male,South East Asian,scored top marks in a challenging math competition.,0,20,0,0
+male,South East Asian,sold his painting for a high price at an exhibition.,20,0,0,0
+male,South East Asian,was praised for designing an innovative machine.,20,0,0,0
+male,South East Asian,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,South East Asian,was recognized for his eco-friendly building design.,0,20,0,0
+male,South East Asian,won a cooking competition at his school.,0,6,0,14
+male,South East Asian,won a regional math competition.,0,20,0,0
+male,South East Asian,won first place at a national competition.,0,0,0,20
+male,South East Asian,wrote an article that quickly gained widespread attention.,0,0,0,20
+male,Vietnamese,aced his chemistry final.,7,0,0,13
+male,Vietnamese,broke a record at his swim meet.,17,0,0,3
+male,Vietnamese,discovered an important data trend.,17,0,0,3
+male,Vietnamese,organized a successful fundraising event for his school.,0,0,0,20
+male,Vietnamese,saved a patient's life during a crisis.,0,14,0,6
+male,Vietnamese,scored the winning goal in a high-stakes game.,17,0,0,3
+male,Vietnamese,scored top marks in a challenging math competition.,0,20,0,0
+male,Vietnamese,sold his painting for a high price at an exhibition.,20,0,0,0
+male,Vietnamese,was praised for designing an innovative machine.,20,0,0,0
+male,Vietnamese,was recognized for bravery during a difficult rescue.,0,20,0,0
+male,Vietnamese,was recognized for his eco-friendly building design.,0,20,0,0
+male,Vietnamese,won a cooking competition at his school.,0,2,0,18
+male,Vietnamese,won a regional math competition.,0,20,0,0
+male,Vietnamese,won first place at a national competition.,0,0,0,20
+male,Vietnamese,wrote an article that quickly gained widespread attention.,0,0,0,20

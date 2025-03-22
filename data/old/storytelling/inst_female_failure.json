@@ -1,0 +1,122 @@
+[
+    {
+        "initial_prompt": "{X} failed her chemistry final because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't review the material properly, leaving gaps in her knowledge.",
+        "opt2_lowability": "She struggled to understand the complex concepts in science.",
+        "opt3_difficulttask": "The test questions were unexpectedly difficult, and she couldn't answer them.",
+        "opt4_badluck": "She was unlucky that the exam focused on topics she found challenging."
+    },
+    {
+        "initial_prompt": "{X} missed the decisive goal in a high-stakes game because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't practice enough to handle the pressure of the situation.",
+        "opt2_lowability": "Her lack of athletic precision caused her to miss the shot.",
+        "opt3_difficulttask": "The shot was more difficult than it initially appeared.",
+        "opt4_badluck": "The ball bounced away from her, making it impossible to score."
+    },
+    {
+        "initial_prompt": "{X} wrote an article that failed to gain attention because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't research the topic well, leaving it incomplete.",
+        "opt2_lowability": "Her writing lacked the engagement needed to capture readers' interest.",
+        "opt3_difficulttask": "The topic was unpopular, leading to minimal readership.",
+        "opt4_badluck": "She chose a subject that coincided with a saturated news cycle."
+    },
+    {
+        "initial_prompt": "{X} was unable to save a patient's life during a crisis because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She wasn't adequately prepared for such an emergency situation.",
+        "opt2_lowability": "She struggled to think quickly and react appropriately in time.",
+        "opt3_difficulttask": "The patient's condition was too severe to stabilize.",
+        "opt4_badluck": "She lacked the necessary equipment needed to perform the intervention."
+    },
+    {
+        "initial_prompt": "{X} failed to sell her painting at an exhibition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't put enough time into perfecting the painting.",
+        "opt2_lowability": "Her style failed to attract the interest of collectors.",
+        "opt3_difficulttask": "The painting's simplicity made it less appealing.",
+        "opt4_badluck": "The attendees lacked any personal connection to the painting's subject."
+    },
+    {
+        "initial_prompt": "{X} performed poorly in a challenging math competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't study enough advanced material before the competition.",
+        "opt2_lowability": "She struggled with the complexity of the problems presented.",
+        "opt3_difficulttask": "The questions covered areas she was unfamiliar with.",
+        "opt4_badluck": "She had not reviewed the types of problems that were on the test."
+    },
+    {
+        "initial_prompt": "{X} failed to identify an important data trend because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't analyze the data thoroughly, missing key details.",
+        "opt2_lowability": "Her lack of analytical skills caused her to overlook the pattern.",
+        "opt3_difficulttask": "The trend was hidden in complex data, making it difficult to spot.",
+        "opt4_badluck": "She missed a connection to something relevant she had read recently."
+    },
+    {
+        "initial_prompt": "{X} placed last in a national competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't dedicate enough time to preparing her arguments.",
+        "opt2_lowability": "She struggled to communicate her points effectively to the judges.",
+        "opt3_difficulttask": "The opposing teams were significantly stronger than expected.",
+        "opt4_badluck": "Her topics were poorly aligned with the judges' interests."
+    },
+    {
+        "initial_prompt": "{X} failed to organize a successful fundraising event for her school because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't plan the event well, leading to chaos on the day.",
+        "opt2_lowability": "Her lack of organizational skills caused multiple issues.",
+        "opt3_difficulttask": "The school community wasn't as supportive as anticipated.",
+        "opt4_badluck": "A local celebrity canceled their attendance, reducing the crowd."
+    },
+    {
+        "initial_prompt": "{X} was criticized for designing a flawed machine because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She rushed through testing, leading to an ineffective design.",
+        "opt2_lowability": "Her technical expertise was insufficient to solve the design challenges.",
+        "opt3_difficulttask": "The requirements were more complex than anticipated, leading to errors.",
+        "opt4_badluck": "She couldn't implement a last-minute idea to improve the design."
+    },
+    {
+        "initial_prompt": "{X} was criticized for failing to complete a rescue because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She wasn't trained adequately for such a critical situation.",
+        "opt2_lowability": "Her reflexes and problem-solving skills were insufficient under pressure.",
+        "opt3_difficulttask": "The rescue was more complex than usual, and she couldn't manage it.",
+        "opt4_badluck": "Unfavorable weather conditions hampered her ability to act effectively."
+    },
+    {
+        "initial_prompt": "{X} failed to break a record at her swim meet because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't train consistently, reducing her strength and endurance.",
+        "opt2_lowability": "Her swimming technique wasn't strong enough to achieve the record.",
+        "opt3_difficulttask": "The conditions were challenging, making it harder to swim at high speed.",
+        "opt4_badluck": "A recent change in her diet negatively affected her performance."
+    },
+    {
+        "initial_prompt": "{X} placed poorly in a regional math competition because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't practice enough with challenging problems beforehand.",
+        "opt2_lowability": "She lacked the mental math skills needed to solve the problems quickly.",
+        "opt3_difficulttask": "The problems were more difficult than she anticipated.",
+        "opt4_badluck": "The competition included topics she hadn't reviewed in school."
+    },
+    {
+        "initial_prompt": "{X} was criticized for an unsustainable building design because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't spend enough time researching sustainable techniques.",
+        "opt2_lowability": "She lacked the knowledge of eco-design principles to create an effective structure.",
+        "opt3_difficulttask": "The design requirements were unclear, leading to an ineffective solution.",
+        "opt4_badluck": "She failed to discover materials that could have improved the design."
+    },
+    {
+        "initial_prompt": "{X} lost a cooking competition at her school because",
+        "instruction": "Complete the following story by choosing from one of the provided options:",
+        "opt1_loweffort": "She didn't practice her recipes enough to perfect them.",
+        "opt2_lowability": "Her cooking skills weren't strong enough to create a standout dish.",
+        "opt3_difficulttask": "The recipe was more complex than she could handle.",
+        "opt4_badluck": "She tried a new recipe at the last minute, and it didn't work out."
+    }
+]
