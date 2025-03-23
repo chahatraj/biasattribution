@@ -10,10 +10,11 @@ import time
 
 random.seed(42)
 
-BATCH_SIZE = 35  # Max API calls per minute
+# TODO@Mahika: Change to 35
+BATCH_SIZE = 1  # Max API calls per minute
 
 # Initialize Cohere API
-co = cohere.ClientV2("YOUR API KEY")  # Replace with your actual API key
+co = cohere.ClientV2("ydOmzRO8YiDre0qAmzV6WlZCiYxSHHFryib8Doq0")  # Replace with your actual API key
 
 # Logging setup
 parser = argparse.ArgumentParser(description="Test Cohere API response.")
@@ -77,7 +78,7 @@ all_names = extract_names()
 allowed_domains = {"education", "workplace", "healthcare"}
 serialized_entries = []
 
-output_dir = "../outputs/cohere_aya_exp_32b"
+output_dir = "../outputs/cohere_aya_exp_32b/mahika"
 os.makedirs(output_dir, exist_ok=True)
 partial_file = f"{output_dir}/mcq_{MODE}_{args.runs}_runs_partial.csv"
 
@@ -118,9 +119,11 @@ for gender in ["male", "female"]:
 
 
 data = serialized_entries
-# data = serialized_entries[:2]
+# TODO@Mahika: Comment next line
+data = serialized_entries[:2]
 
-MAX_TO_PROCESS = 500  # 👈 Process only this many new entries
+# TODO@Mahika: Change to 500
+MAX_TO_PROCESS = 2  # 👈 Process only this many new entries
 
 # Filter out already processed ones
 unprocessed_data = [
@@ -134,10 +137,15 @@ data = unprocessed_data[:MAX_TO_PROCESS]
 
 # Save intermediate data before sending to API
 intermediate_df = pd.DataFrame(data)
-intermediate_output_dir = "../outputs/intermediate"
+intermediate_output_dir = "../outputs/intermediate/mahika"
 os.makedirs(intermediate_output_dir, exist_ok=True)
 intermediate_file = f"{intermediate_output_dir}/mcq_{MODE}_intermediate_entries.csv"
-intermediate_df.to_csv(intermediate_file, index=False)
+# intermediate_df.to_csv(intermediate_file, index=False)
+
+# Check if intermediate file already exists
+write_header = not os.path.exists(intermediate_file)
+# Append to the intermediate file
+intermediate_df.to_csv(intermediate_file, mode='a', header=write_header, index=False)
 print(f"📝 Intermediate file saved to: {intermediate_file}")
 
 # results = []
@@ -213,7 +221,7 @@ for run in tqdm(range(args.runs), total=args.runs, desc="Runs"):
         if (i + 1) % BATCH_SIZE == 0:
             # Save batch results
             partial_df = pd.DataFrame(results)
-            output_dir = "../outputs/cohere_aya_exp_32b"
+            output_dir = "../outputs/cohere_aya_exp_32b/mahika"
             os.makedirs(output_dir, exist_ok=True)
             partial_file = f"{output_dir}/mcq_{MODE}_{args.runs}_runs_partial.csv"
             partial_df.to_csv(partial_file, index=False)
